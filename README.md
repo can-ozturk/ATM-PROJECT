@@ -20,21 +20,21 @@ This project is not for any institution or organization, but rather a personal p
 ## Proje Hakkında - About the Project
 
 ## Turkish
-• 1. Bakiyeyi Görüntüler
+`• 1. Bakiyeyi Görüntüler`
 
-• 2. Para Çekme İşlemi
+`• 2. Para Çekme İşlemi`
 
-• 3. Para Yatırma İşlemi
+`• 3. Para Yatırma İşlemi`
 
-• 4. Çıkış Yapar
+`• 4. Çıkış Yapar`
 
 ## English
-• 1. Views Balance
+`• 1. Views Balance`
 
-• 2. Withdrawal
+`• 2. Withdrawal`
 
-• 3. Deposit
+`• 3. Deposit`
  
-• 4. Exits
+`• 4. Exits`
 
 ## Mail Address: cnaosturk34@gmail.com
