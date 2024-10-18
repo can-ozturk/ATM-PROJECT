@@ -1,4 +1,8 @@
 ##
+
+## Programın dili Türkçedir
+## The language of the program is Turkish.
+
 ## Turkish
 C# dilini kullanarak temel düzeyde bir ATM programı geliştirdim. Bu konsol tabanlı uygulama, bir ATM'de gerçekleştirilebilecek en temel işlemleri içeriyor. Programda fazla bir özellik bulunmamakla birlikte, özellikle veritabanı kullanmıyorum; dolayısıyla yapılan işlemler program kapatıldıktan sonra kayboluyor.
 
