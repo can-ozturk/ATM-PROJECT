@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\ATM PROJECT\ATM PROJECT\ATM PROJECT\bin\Debug\ATM PROJECT.exe.config
+C:\Users\Can\Desktop\ATM PROJECT\ATM PROJECT\ATM PROJECT\bin\Debug\ATM PROJECT.exe
+C:\Users\Can\Desktop\ATM PROJECT\ATM PROJECT\ATM PROJECT\bin\Debug\ATM PROJECT.pdb
+C:\Users\Can\Desktop\ATM PROJECT\ATM PROJECT\ATM PROJECT\obj\Debug\ATM PROJECT.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\ATM PROJECT\ATM PROJECT\ATM PROJECT\obj\Debug\ATM PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\ATM PROJECT\ATM PROJECT\ATM PROJECT\obj\Debug\ATM PROJECT.exe
+C:\Users\Can\Desktop\ATM PROJECT\ATM PROJECT\ATM PROJECT\obj\Debug\ATM PROJECT.pdb
