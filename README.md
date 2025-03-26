@@ -15,7 +15,7 @@ I developed a basic ATM program using C#. This console-based application include
 This project is not for any institution or organization, but rather a personal project for my own development. I hope the knowledge and experience I gained throughout this process will also be useful to you, which is why I wanted to share it.
 ##
 
-## [LinkedIn](https://www.linkedin.com/in/canzt/) • [Discord](https://discord.gg/5s7zFDx8mC) • [Instagram](https://www.instagram.com/cannztrk_) • [Web Site](https://www.canztrk.wuaze.com/)
+## [LinkedIn](https://www.linkedin.com/in/canzt/) • [Discord](https://discord.gg/5s7zFDx8mC) • [Instagram](https://www.instagram.com/cannztrk_) • [Web Site](https://ozturkk.com/)
 
 ## Proje Hakkında - About the Project
 
