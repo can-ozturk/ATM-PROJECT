@@ -1,40 +1,77 @@
-##
+# 💳 C# ATM Programı  
 
-## Programın dili Türkçedir
-## The language of the program is Turkish.
+---
 
-## Turkish
-C# dilini kullanarak temel düzeyde bir ATM programı geliştirdim. Bu konsol tabanlı uygulama, bir ATM'de gerçekleştirilebilecek en temel işlemleri içeriyor. Programda fazla bir özellik bulunmamakla birlikte, özellikle veritabanı kullanmıyorum; dolayısıyla yapılan işlemler program kapatıldıktan sonra kayboluyor.
+## 🌐 Program Dili / Program Language  
+### TR 
+Programın dili **Türkçe**  
+### ENG 
+The language of the program is **Turkish**  
 
-Bu proje herhangi bir kurum ya da organizasyon için değil, tamamen kişisel gelişimim adına oluşturduğum bir çalışmadır. Bu süreçte edindiğim bilgilerin sizler için de faydalı olacağını umuyorum, bu nedenle paylaşmak istedim.
+---
 
-## English
+## 📖 Açıklama / Description  
 
-I developed a basic ATM program using C#. This console-based application includes the most basic operations that can be performed on an ATM. The program doesn't have many features, and it doesn't use a database; therefore, all transactions are lost once the program is closed.
+### Türkçe  
+C# dilini kullanarak **temel düzeyde bir ATM programı** geliştirdim.  
+Bu **konsol tabanlı uygulama**, bir ATM'de yapılabilecek en basit işlemleri içeriyor.  
 
-This project is not for any institution or organization, but rather a personal project for my own development. I hope the knowledge and experience I gained throughout this process will also be useful to you, which is why I wanted to share it.
-##
+- Veritabanı kullanılmamıştır.  
+- İşlemler program kapatıldıktan sonra **kaybolur**.  
+- Sadece **kişisel gelişim** amacıyla geliştirilmiştir.  
 
-## [LinkedIn](https://www.linkedin.com/in/canzt/) • [Discord](https://discord.gg/5s7zFDx8mC) • [Instagram](https://www.instagram.com/cannztrk_) • [Web Site](https://ozturkk.com/)
+---
 
-## Proje Hakkında - About the Project
+### English  
+I developed a **basic ATM program** using C#.  
+This **console-based application** includes the most basic ATM operations.  
 
-## Turkish
-`• 1. Bakiyeyi Görüntüler`
+- No database is used.  
+- Transactions are **not saved** after closing.  
+- Created only as a **personal project** for self-development.  
 
-`• 2. Para Çekme İşlemi`
+---
 
-`• 3. Para Yatırma İşlemi`
+## 📌 Proje Özellikleri / Project Features  
 
-`• 4. Çıkış Yapar`
+### 🇹🇷 Turkish  
+- `1️⃣ Bakiyeyi Görüntüler`  
+- `2️⃣ Para Çekme İşlemi`  
+- `3️⃣ Para Yatırma İşlemi`  
+- `4️⃣ Çıkış Yapar`  
 
-## English
-`• 1. Views Balance`
+### 🇬🇧 English  
+- `1️⃣ Views Balance`  
+- `2️⃣ Withdrawal`  
+- `3️⃣ Deposit`  
+- `4️⃣ Exits`  
 
-`• 2. Withdrawal`
+---
 
-`• 3. Deposit`
- 
-`• 4. Exits`
+## 🛠 Kullanılan Teknoloji / Used Technology  
+- **C#** (Console Application)  
 
-## Mail Address: cnaosturk34@gmail.com
+---
+
+## 📜 Note / Not  
+Bu proje tamamen **eğitim ve örnek amaçlı** geliştirilmiştir.  
+Gerçek bir araç kiralama hizmeti sunmamaktadır.  
+
+---
+
+## 🌐 Connect with Me / Benimle Bağlantı Kurun
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Can%20Öztürk-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/canzt/)  
+[![Discord](https://img.shields.io/badge/Discord-Can%20Öztürk-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/5s7zFDx8mC)  
+[![Instagram](https://img.shields.io/badge/Instagram-cannztrk__-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/cannztrk_)  
+[![Website](https://img.shields.io/badge/Website-ozturkk.com-1DA1F2?style=for-the-badge&logo=google-chrome)](https://ozturkk.com/)  
+
+---
+
+## 📫 Contact / İletişim
+✉️ **Mail:** cnaosturk34@gmail.com  
+
+---
+
+## 📈 GitHub Stats / GitHub İstatistikleri
+![Can's GitHub Stats / Can'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=can-ozturk&show_icons=true&theme=tokyonight)  
+![Top Languages / Bütün Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=can-ozturk&layout=compact&theme=tokyonight)
