@@ -10,7 +10,7 @@ The language of the program is **Turkish**
 
 ---
 
-## 📖 Açıklama / Description  
+## 📖 Açıklama / Description 
 
 ### Türkçe  
 C# dilini kullanarak **temel düzeyde bir ATM programı** geliştirdim.  
